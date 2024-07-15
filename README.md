@@ -4,10 +4,10 @@ Project submission for Intel Unnati Training Programme 2024, Problem statement -
 ## Dataset Folder Structure
 Organize your dataset with the following structure:
 
-### dataset
-  #### train
+- **dataset**
+  - **train**
     - Pixelated
     - Non_Pixelated
-  #### test
+  - **test**
     - Pixelated
     - Non_Pixelated
