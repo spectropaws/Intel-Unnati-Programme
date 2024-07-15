@@ -65,8 +65,8 @@ There are three scripts for inference.
 2. repeated-inference.py
 3. video-inference.py
 
-run the `inference.py` script to correct a pixeleted image.
-run the `repeated-inference.py` script to correct a pixelated image by repeatedly feeding the pixeleted blocks to the correction model
-run the `video-inference.py` script to display your camera feed and use detection and correction models on each frame.
+- run the `inference.py` script to correct a pixeleted image.
+- run the `repeated-inference.py` script to correct a pixelated image by repeatedly feeding the pixeleted blocks to the correction model
+- run the `video-inference.py` script to display your camera feed and use detection and correction models on each frame.
 
 **Note**: The `inference.py` and `repeaded-inference.py` scripts saves the output image as `output.jpg` in the same folder.
