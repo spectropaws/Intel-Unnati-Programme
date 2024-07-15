@@ -22,7 +22,7 @@ The model consists of two main components:
 - Uses a CNN architecture for detecting pixelated areas.
 - Trained on a dataset with labeled pixelated and non-pixelated regions.
 
-### Pixelation Correction Model
+## Pixelation Correction Model
 - Utilizes an advanced super-resolution technique.
 - Enhances the quality of the detected pixelated regions.
 
